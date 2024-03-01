@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Eduardo Fakiani</h1>
-<h3 align="center">Junior Full-Stack Software Engineer</h3>
+<h3 align="center">Middle Full-Stack Software Engineer</h3>
 
 ### Frontend  
 <div align="center">  
